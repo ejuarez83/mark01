@@ -15,10 +15,10 @@ Este es un proyecto **personal y confidencial** basado en la construcci¢n de un
 2. **Motores**: Coreless 3.7V 46000RPM 7x25MM (x4)
 3. **Control de potencia**: MOSFET IRFZ44N (1 por motor)
 4. **Sensores**:
-   - HC-SR04 frontal  detecci¢n de obst culos
-   - HC-SR04 inferior  detecci¢n de altura para aterrizaje
-   - Sensor de voltaje  monitoreo de bater¡a
-   - MPU6050  giroscopio e inclinaci¢n
+   - HC-SR04 frontal -> detecci¢n de obst culos
+   - HC-SR04 inferior -> detecci¢n de altura para aterrizaje
+   - Sensor de voltaje -> monitoreo de bater¡a
+   - MPU6050 -> giroscopio e inclinaci¢n
 5. **Cuerpo del dron**: Impreso en 3D con PLA
 
 ---
